@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="word-counter">
+    <output-path>$PROJECT_DIR$/out/artifacts/word_counter</output-path>
+    <root id="archive" name="word-counter.war" />
+  </artifact>
+</component>

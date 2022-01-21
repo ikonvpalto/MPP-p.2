@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>WordCounter</servlet-name>
+        <servlet-class>org.kvpbldsck.servlets.WordCounter</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>WordCounter</servlet-name>
+        <url-pattern>/word-count</url-pattern>
+    </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="time">
+    <output-path>$PROJECT_DIR$/out/artifacts/time</output-path>
+    <root id="root">
+      <element id="module-source" name="time" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/index.jsp" />
+    </root>
+  </artifact>
+</component>
